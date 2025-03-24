@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **halebetly@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hale-y%C4%B1ld%C4%B1z-a11bb3242/](www.linkedin.com/in/haleyildizz)
+- 📄 Know about my experiences [www.linkedin.com/in/haleyildizz](www.linkedin.com/in/haleyildizz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
