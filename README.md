@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hale</h1>
-<h3 align="center">Hi, I’m Hale! 🌟 I’m 18 years old and focused on frontend development. I’m passionate about software, robotic and astronomy 🚀 I love volunteering and contributing to make technology more accessible🐌🌱</h3>
+<h3 align="center">Hi, I’m Hale! 🌟 I’m 18 and focused on frontend development and product management 🚀 Passionate about software and astronomy 💻✨ I love volunteering and contributing to make technology more accessible 🐌🌱 Growing T-shaped, improving both my technical and soft skills.</h3>
 
 - 🌱 I’m currently learning **Typescript, React**
 
